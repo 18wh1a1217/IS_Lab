@@ -2,9 +2,7 @@
 
 ## Aim of the Program
 
-C program that contains a string (char pointer) with a value ‘Hello world’. The
-program should XOR each character in this string with 0 and displays the result.
-
+To Calculate the message digest of a text using the SHA-1 algorithm in JAVA.
 
 ### Output
 ![output](program10_output.png)
